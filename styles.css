@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: #E5E5E5;
+    font-size: 16px;
+}
+
+header {
+    background: #C2B4D6;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0.05px;
+    text-align: center;
+}
+
+footer {
+    background: #C2B4D6;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0.05px;
+    text-align: center;
+}
+
+header h1 {
+    font-family: "Segoe Script";
+}
+
+header h1, header h3 {
+    color: black;
+}
+
+span {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.i {
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr {
+    border: black 2px solid;
+    border-radius: 138.594px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+article {
+    margin: 50px 0;
+}
+
+main {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: underline;
+}
