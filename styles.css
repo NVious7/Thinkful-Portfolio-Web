@@ -66,3 +66,11 @@ a {
     font-weight: bold;
     text-decoration: underline;
 }
+
+img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
