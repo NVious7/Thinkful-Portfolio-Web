@@ -76,5 +76,21 @@ img {
 }
 
 ol {
+    list-style-position: inside;
+    padding: 0;
     text-align: center;
+}
+
+p {
+    margin: 30px;
+}
+
+.first {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
 }
