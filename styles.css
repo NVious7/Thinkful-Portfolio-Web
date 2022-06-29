@@ -1,3 +1,12 @@
+/*
+I want to find a nice color palette for the banner, body, and footer. 
+I do not want just a basic full white background for the body.
+The hr and paragraphs must have a left and right margin to create a column look (not using flexbox).
+The main body must be aligned center.
+The img must be resized and centered.
+No media rules added for smaller screens.
+*/
+
 body {
     margin: 0;
     padding: 0;
